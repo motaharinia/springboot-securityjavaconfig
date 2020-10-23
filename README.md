@@ -14,6 +14,7 @@ Spring Security is a framework that focuses on providing both authentication and
 further references:     
 - https://spring.io/projects/spring-security
 - https://www.javatpoint.com/spring-security-java-example
+- https://www.baeldung.com/spring-security-expressions
 
 
 
